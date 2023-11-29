@@ -15,6 +15,10 @@
    - Routers
    - JSON Web Token (JWT) for authentication
    - Configuration
+   - Mongoose for MongoDB object modeling
+   - Body-parser for parsing request bodies
+   - Cors for handling Cross-Origin Resource Sharing
+   - dotenv for environment variable management
 
 3. **Axios Services and API Requests:**
    - Axios services for API requests in React.js.
